@@ -4,6 +4,7 @@ Bem-vindo ao meu portfólio de **Data Analytics**.
 Aqui você encontrará projetos práticos focados em **análise de dados**, **modelagem analítica**, **SQL**, **BigQuery**, **Python** e **dashboards**, com foco em resolução de problemas de negócio.
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/aidanofilho/
+
 📍 **Foco:** Data Analyst | BI Analyst | Analytics Engineer  
 
 ---
