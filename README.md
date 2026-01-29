@@ -23,7 +23,7 @@ Aqui você encontrará projetos práticos focados em **análise de dados**, **mo
 **Stack:** BigQuery (SQL) • Looker Studio  
 Projeto de análise de desempenho acadêmico com foco em **notas**, **PAM (Percepção do Aluno da Matéria)** e metas de negócio.
 
-🔗 Repositório: *(em breve)*  
+🔗 Repositório: *https://github.com/AidanoFilho/colegio-imperio-bq-looker*  
 🔗 Dashboard: *(em breve)*  
 
 ---
