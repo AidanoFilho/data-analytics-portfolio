@@ -19,7 +19,7 @@ Aqui você encontrará projetos práticos focados em **análise de dados**, **mo
 
 ## 🚀 Projetos em Destaque
 
-### 📚 Colégio Império — Student Performance Analytics
+### 📚 Colégio Império — Análise de Notas & PAM
 **Stack:** BigQuery (SQL) • Looker Studio  
 Projeto de análise de desempenho acadêmico com foco em **notas**, **PAM (Percepção do Aluno da Matéria)** e metas de negócio.
 
@@ -28,7 +28,7 @@ Projeto de análise de desempenho acadêmico com foco em **notas**, **PAM (Perce
 
 ---
 
-### 📉 Churn Analysis — Telecom (exemplo futuro)
+### 📉Python Insights — Análise de Cancelamento de Clientes (Churn)
 **Stack:** Python • Pandas • EDA  
 Análise dos principais fatores de cancelamento e propostas de ações para retenção.
 
