@@ -24,7 +24,7 @@ Aqui você encontrará projetos práticos focados em **análise de dados**, **mo
 Projeto de análise de desempenho acadêmico com foco em **notas**, **PAM (Percepção do Aluno da Matéria)** e metas de negócio.
 
 🔗 Repositório: *https://github.com/AidanoFilho/colegio-imperio-bq-looker*  
-🔗 Dashboard: *(em breve)*  
+🔗 Dashboard: *https://lookerstudio.google.com/reporting/667dd328-6668-4db8-92fd-873c9b2773a8*  
 
 ---
 
@@ -32,7 +32,7 @@ Projeto de análise de desempenho acadêmico com foco em **notas**, **PAM (Perce
 **Stack:** Python • Pandas • EDA  
 Análise dos principais fatores de cancelamento e propostas de ações para retenção.
 
-🔗 Repositório: *(em breve)*  
+🔗 Repositório: *https://github.com/AidanoFilho/python-insights-churn-analysis*  
 
 ---
 
